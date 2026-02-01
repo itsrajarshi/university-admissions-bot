@@ -5,6 +5,9 @@ A data-driven, context-aware chatbot that helps students explore university acad
 The chatbot is designed to behave like a real admissions counselor rather than a rigid FAQ or menu-based system.
 
 
+## Screenshot
+![Admissions Assistant Chatbot UI](docs/chat-ui.png)
+
 ## Project Overview
 
 Students often struggle to navigate admission-related information due to fragmented program details, complex eligibility rules, and static help systems.
